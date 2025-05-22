@@ -19,6 +19,6 @@ spicetify apply
 
 ### Preview
 
-Here's how it looks:
+Here's how the spotify looks after some ricing:
 
 ![Spotify Ricing Preview](images/spotifyricing.png)
